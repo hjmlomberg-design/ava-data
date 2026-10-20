@@ -1,0 +1,40 @@
+{
+ "account_id": "ACC-1068",
+ "company_name": "Ember Retail",
+ "industry": "Retail",
+ "region": "Benelux",
+ "tier": "Tier 3",
+ "product": "Creative",
+ "use_case": "Voice content creation",
+ "arr_eur": 44000,
+ "day_number": 12,
+ "milestone": "First published voice project by day 14",
+ "account_manager": "Sanne de Vries",
+ "implementation_partner": "Northlight Integrations",
+ "technical_owner": {
+  "name": "Daan Bakker",
+  "first_name": "Daan",
+  "role": "Operations Manager",
+  "email": "daan.bakker@example.com",
+  "preferred_language": "nl"
+ },
+ "executive_sponsor": {
+  "name": "Emma Smit",
+  "role": "VP Operations"
+ },
+ "build_signals": {
+  "projects_created": 4,
+  "generations_last_7d": 335,
+  "seats_active": 1,
+  "seats_licensed": 5,
+  "commercial_license": true
+ },
+ "suspected_path": null,
+ "signal_reason": "On track or too early to judge.",
+ "previous_touches": [
+  "Welcome email day 1",
+  "Onboarding track enrolment day 1"
+ ],
+ "synthetic": true,
+ "as_of": "day of call"
+}

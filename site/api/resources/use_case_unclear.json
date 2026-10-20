@@ -1,0 +1,17 @@
+{
+ "path": "use_case_unclear",
+ "resources": [
+  {
+   "title": "Starter use cases for your industry",
+   "contains": "Two or three proven first use cases with the success metric for each",
+   "link": "[link]"
+  },
+  {
+   "title": "Agent templates",
+   "contains": "Ready-made agent templates to start from",
+   "link": "[link]"
+  }
+ ],
+ "session": "20-minute use-case scoping session",
+ "escalate_after": "Day 10 with no agreed use case: Account Manager reconfirms the sponsor's goal."
+}

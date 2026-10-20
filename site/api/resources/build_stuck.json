@@ -1,0 +1,22 @@
+{
+ "path": "build_stuck",
+ "resources": [
+  {
+   "title": "Phone number and telephony setup guide",
+   "contains": "Connecting a number via the native integration or SIP trunk",
+   "link": "[link]"
+  },
+  {
+   "title": "Webhook tool troubleshooting guide",
+   "contains": "Common causes of tool errors: URLs, parameters, timeouts, authentication",
+   "link": "[link]"
+  },
+  {
+   "title": "Prompt and knowledge base best practices",
+   "contains": "Structuring the system prompt and knowledge base for reliable answers",
+   "link": "[link]"
+  }
+ ],
+ "session": "30-minute guided build session",
+ "escalate_after": "Day 10 still stuck: implementation partner, or FDE for Tier 1; Support if it looks like a platform bug."
+}

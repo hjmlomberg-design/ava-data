@@ -1,0 +1,40 @@
+{
+ "account_id": "ACC-1030",
+ "company_name": "Halcyon Health",
+ "industry": "Healthcare & life sciences",
+ "region": "Nordics",
+ "tier": "Tier 1",
+ "product": "Creative",
+ "use_case": "Voice content creation",
+ "arr_eur": 175000,
+ "day_number": 5,
+ "milestone": "First published voice project by day 14",
+ "account_manager": "Erik Lindqvist",
+ "implementation_partner": "Fjord Systems",
+ "technical_owner": {
+  "name": "Viktor Nilsson",
+  "first_name": "Viktor",
+  "role": "Head of Customer Service",
+  "email": "viktor.nilsson@example.com",
+  "preferred_language": "sv"
+ },
+ "executive_sponsor": {
+  "name": "Elsa Holm",
+  "role": "VP Operations"
+ },
+ "build_signals": {
+  "projects_created": 6,
+  "generations_last_7d": 233,
+  "seats_active": 1,
+  "seats_licensed": 5,
+  "commercial_license": true
+ },
+ "suspected_path": null,
+ "signal_reason": "On track or too early to judge.",
+ "previous_touches": [
+  "Welcome email day 1",
+  "Onboarding track enrolment day 1"
+ ],
+ "synthetic": true,
+ "as_of": "day of call"
+}

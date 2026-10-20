@@ -1,0 +1,46 @@
+{
+ "account_id": "ACC-1130",
+ "company_name": "Summit Hotels",
+ "industry": "Travel & hospitality",
+ "region": "UK & Ireland",
+ "tier": "Tier 3",
+ "product": "Agents",
+ "use_case": "Customer support agent",
+ "arr_eur": 46000,
+ "day_number": 1,
+ "milestone": "First successful test conversation by day 14",
+ "account_manager": "Hannah Price",
+ "implementation_partner": "Northlight Integrations",
+ "technical_owner": {
+  "name": "James Walsh",
+  "first_name": "James",
+  "role": "Product Manager",
+  "email": "james.walsh@example.com",
+  "preferred_language": "en"
+ },
+ "executive_sponsor": {
+  "name": "Amelia Hughes",
+  "role": "COO"
+ },
+ "build_signals": {
+  "agent_created": false,
+  "test_conversations": 0,
+  "test_success_pct": null,
+  "api_key_used": true,
+  "phone_number_connected": true,
+  "tool_errors_last_7d": 0,
+  "knowledge_base_docs": 2,
+  "technical_user_logins": 10,
+  "buyer_only_logins": false,
+  "security_questionnaire_open": false,
+  "production_traffic": false
+ },
+ "suspected_path": null,
+ "signal_reason": "On track or too early to judge.",
+ "previous_touches": [
+  "Welcome email day 1",
+  "Onboarding track enrolment day 1"
+ ],
+ "synthetic": true,
+ "as_of": "day of call"
+}

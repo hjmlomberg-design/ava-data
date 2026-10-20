@@ -1,0 +1,26 @@
+{
+ "timezone_note": "Times are shown in the contact's local time",
+ "slots": [
+  {
+   "slot_id": "S1",
+   "day": "Day 8 (tomorrow)",
+   "time": "10:00"
+  },
+  {
+   "slot_id": "S2",
+   "day": "Day 8 (tomorrow)",
+   "time": "15:30"
+  },
+  {
+   "slot_id": "S3",
+   "day": "Day 9",
+   "time": "11:00"
+  },
+  {
+   "slot_id": "S4",
+   "day": "Day 10",
+   "time": "14:00"
+  }
+ ],
+ "synthetic": true
+}

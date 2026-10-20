@@ -1,0 +1,46 @@
+{
+ "account_id": "ACC-1071",
+ "company_name": "Solace Pharma",
+ "industry": "Healthcare & life sciences",
+ "region": "DACH",
+ "tier": "Tier 3",
+ "product": "Agents",
+ "use_case": "Customer support agent",
+ "arr_eur": 38000,
+ "day_number": 6,
+ "milestone": "First successful test conversation by day 14",
+ "account_manager": "Lukas Brandt",
+ "implementation_partner": "Kernwerk Digital",
+ "technical_owner": {
+  "name": "Hannah Vogel",
+  "first_name": "Hannah",
+  "role": "Head of Customer Service",
+  "email": "hannah.vogel@example.com",
+  "preferred_language": "de"
+ },
+ "executive_sponsor": {
+  "name": "Lea Weber",
+  "role": "CIO"
+ },
+ "build_signals": {
+  "agent_created": true,
+  "test_conversations": 28,
+  "test_success_pct": 94,
+  "api_key_used": true,
+  "phone_number_connected": true,
+  "tool_errors_last_7d": 0,
+  "knowledge_base_docs": 5,
+  "technical_user_logins": 4,
+  "buyer_only_logins": false,
+  "security_questionnaire_open": false,
+  "production_traffic": false
+ },
+ "suspected_path": null,
+ "signal_reason": "On track or too early to judge.",
+ "previous_touches": [
+  "Welcome email day 1",
+  "Onboarding track enrolment day 1"
+ ],
+ "synthetic": true,
+ "as_of": "day of call"
+}

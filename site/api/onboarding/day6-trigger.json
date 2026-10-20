@@ -1,0 +1,42 @@
+{
+ "rule": "Every morning, check accounts on day 6. If build signals suggest nothing usable has been built, schedule one call for the next weekday in the contact's local business hours (10:00-12:00 or 14:00-16:00), skipping public holidays.",
+ "triggered": [
+  {
+   "account_id": "ACC-1028",
+   "company_name": "Kestrel Bank",
+   "tier": "Tier 1",
+   "language": "Italian",
+   "suspected_path": "security_review",
+   "reason": "Agent built and tests pass, but no integration or phone number, and a security questionnaire is open.",
+   "call": "next weekday (day 7)"
+  },
+  {
+   "account_id": "ACC-1037",
+   "company_name": "Lumen Fashion",
+   "tier": "Tier 1",
+   "language": "English",
+   "suspected_path": "no_owner",
+   "reason": "Only the buyer has logged in; no technical user activity and no agent.",
+   "call": "next weekday (day 7)"
+  },
+  {
+   "account_id": "ACC-1081",
+   "company_name": "Quill Rail",
+   "tier": "Tier 2",
+   "language": "French",
+   "suspected_path": "use_case_unclear",
+   "reason": "Technical users have logged in but no agent has been created.",
+   "call": "next weekday (day 7)"
+  },
+  {
+   "account_id": "ACC-1091",
+   "company_name": "Corvid Logistics",
+   "tier": "Tier 2",
+   "language": "Swedish",
+   "suspected_path": "build_stuck",
+   "reason": "Agent created but test success is low, tool errors are high and no phone number is connected.",
+   "call": "next weekday (day 7)"
+  }
+ ],
+ "synthetic": true
+}

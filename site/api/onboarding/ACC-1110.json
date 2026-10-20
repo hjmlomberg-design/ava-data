@@ -1,0 +1,40 @@
+{
+ "account_id": "ACC-1110",
+ "company_name": "Harbor Utilities",
+ "industry": "Energy & utilities",
+ "region": "DACH",
+ "tier": "Tier 1",
+ "product": "Creative",
+ "use_case": "Voice content creation",
+ "arr_eur": 193000,
+ "day_number": 7,
+ "milestone": "First published voice project by day 14",
+ "account_manager": "Lukas Brandt",
+ "implementation_partner": "Kernwerk Digital",
+ "technical_owner": {
+  "name": "Felix Weber",
+  "first_name": "Felix",
+  "role": "IT Lead",
+  "email": "felix.weber@example.com",
+  "preferred_language": "de"
+ },
+ "executive_sponsor": {
+  "name": "Felix Krüger",
+  "role": "Director of Customer Experience"
+ },
+ "build_signals": {
+  "projects_created": 0,
+  "generations_last_7d": 0,
+  "seats_active": 5,
+  "seats_licensed": 5,
+  "commercial_license": true
+ },
+ "suspected_path": "use_case_unclear",
+ "signal_reason": "Technical users have logged in but no agent has been created.",
+ "previous_touches": [
+  "Welcome email day 1",
+  "Onboarding track enrolment day 1"
+ ],
+ "synthetic": true,
+ "as_of": "day of call"
+}

@@ -1,0 +1,17 @@
+{
+ "path": "security_review",
+ "resources": [
+  {
+   "title": "Security and compliance pack",
+   "contains": "Data processing agreement, data residency options, security certifications, sub-processor list, data retention and zero-retention options, SSO overview",
+   "link": "[link to ElevenLabs Trust Center]"
+  },
+  {
+   "title": "Sandbox testing guide",
+   "contains": "How to reach the first successful test with dummy data while the security review runs",
+   "link": "[link]"
+  }
+ ],
+ "session": "30-minute guided sandbox test",
+ "escalate_after": "Day 10 without the review starting: Account Manager arranges a security-to-security call; Tier 1 also flags FDE."
+}
